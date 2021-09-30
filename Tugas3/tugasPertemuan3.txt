@@ -1,0 +1,15 @@
+1. Merubah sumber dataset dari scikit ke csv (internet)
+
+2. Merubah proporsi test-set 35 %, random state sesuai nim ---> 
+   training dan testing berbeda untuk setiap mahasiswa ---> hasil klasifikasi berbeda setiap mahasiswa
+
+
+3. Visualiasi tree pada tingkat kedalaman yang berbeda: 3,4,5,7
+
+4. Klasifikasi tree pada tingkat kedalaman yang berbeda: 3,4,5,7
+
+5. Variasi hasil dengan entropy dan gini
+
+6. Diberi penjelasan pada jupyter-notebook
+
+7. Pengumpulan hari kamis, 30 september 2021. email (alamat github: file ipynb). 

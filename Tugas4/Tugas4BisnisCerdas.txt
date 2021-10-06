@@ -1,0 +1,38 @@
+Supervised learning 	: memiliki label
+
+*Target akhir*
+
+Diskret: Klasifikasi ---> binary		: SVM
+			  multiclass		: Decision Tree
+
+Kontinu: Regresi ---> Regresi Linear
+
+Tugas:
+
+A
+1. Dijalankan contoh program
+
+2. Dijelaskan (dalam bahasa Indonesia, ditulis di ipynb)
+
+3. Menjelaskan transformasi fitur pada baris terakhir
+
+4. Menambahkan metrik baru untuk evaluasi regresi, semisal: MSE. Semakin banyak metrik maka menambah nilai.
+   Pada contoh hanya menggunakan score regresi.
+
+
+B
+
+1. Mencari artikel jurnal yang memiliki kode program dengan algoritma yang telah dipelajari (atau belum, tapi paham)
+
+2. PPT untuk membahas artikel jurnal tersebut.
+
+* salah satu tempat yang baik untuk memulai adalah: paperswithcode.com 
+
+
+Output tugas untuk pengumpulan ada dua
+
+bagian A: alamat code pada github
+
+bagian B: PPT berisi penjelasan yang akan presentasikan.
+
+Deadline Tugas: Rabu, 6 Oktober 2021
